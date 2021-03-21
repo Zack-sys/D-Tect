@@ -27,7 +27,7 @@
 
 ### 𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽 : 
 ``` 
-$ apt update &amp;&amp; apt upgrade  
+$ apt update && apt upgrade  
 ```
 ```
 $ apt install git   
