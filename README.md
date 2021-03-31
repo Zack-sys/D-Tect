@@ -1,4 +1,4 @@
-### 𝐃-𝐓𝐞𝐜𝐭
+### ༒︎᯾𝐃-𝐓𝐞𝐜𝐭᯾༒︎
 
 > D-TECT is an All-In-One Tool for Penetration Testing.   
 
@@ -12,7 +12,7 @@
 
 > and finds different flaws in it.  
 
-### 𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚜 :  
+### ✰𝙵𝚎𝚊𝚝𝚞𝚛𝚎𝚜✰ :  
 > * Sub-domain Scanning  
 > * Port Scanning  
 > * Wordpress Scanning  
@@ -25,7 +25,7 @@
 > * SQL Injection vulnerability scanning  
 > * User-Friendly UI  
 
-### 𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽 : 
+### ✰𝙸𝙽𝚂𝚃𝙰𝙻𝙻𝙰𝚃𝙸𝙾𝙽✰ : 
 ``` 
 $ apt update && apt upgrade  
 ```
@@ -48,8 +48,11 @@ $ chmod +x *
 $ pip2 install requests  
 ```
 
-### 𝚄𝚜𝚊𝚐𝚎 :  
+### ✰𝚄𝚜𝚊𝚐𝚎✰ :  
 ```
 $ python2 d-tect.py  
 ```
 > Now select your options to use that particular tool.. > 
+
+### ⚠️ 𝙻𝙴𝙶𝙰𝙻 𝙳𝙸𝚂𝙲𝙻𝙰𝙸𝙼𝙴𝚁 ⚠️ 
+> Usage of Lockphish for attacking targets without prior mutual consent is illegal. It's the end user's responsibility to obey all applicable local, state and federal laws. Developers assume no liability and are not responsible for any misuse or damage caused by this program.
